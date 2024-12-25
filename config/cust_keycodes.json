@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"ALT_SHIFT_CONTROL"
+		],
+		"description": "ALT_SHIFT_CONTROL",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
